@@ -38,7 +38,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/simonnepinto/"><img src="https://avatars1.githubusercontent.com/u/53074235?s=400&v=4" width="100px;" alt="Simonne Letetia Pinto"/><br /><sub><b>Simonne Letetia Pinto</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/srishtibhandarkar/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHNGlvYPRTcOg/profile-displayphoto-shrink_200_200/0/1596458200423?e=1613606400&v=beta&t=f4aS4Gp26DYo-boRJmJ3f-sXiu2kunjGLkPRaC9J6T4" width="100px;" alt="Srishti Bhandarkar"/><br /><sub><b>Srishti Bhandarkar</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/srishtibhandarkar/"><img src="https://avatars.githubusercontent.com/u/66556264?s=400&u=4efabe459297e37544e48d53fd2c0da085cd90c8&v=4" width="100px;" alt="Srishti Bhandarkar"/><br /><sub><b>Srishti Bhandarkar</b></sub></a></td>
   </tr>
 </table>
 
