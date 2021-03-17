@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
-  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
   <img src="https://img.shields.io/github/release/Naereen/StrapDown.js.svg">
+  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </p>
 
 
